@@ -1,0 +1,5 @@
+requir libraries following
+
+keras
+os
+numpy
